@@ -1,0 +1,3 @@
+There are modifications to Python 2.* which causes errors if Python3 interpreter is used for the projects where Python2 was implemented. 
+
+Below is a list of example differences between the legacy and Python3.
